@@ -129,7 +129,7 @@ global.APIs = { // API Prefix
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais-api.herokuapp.com',
+  botstyle: 'https://botstyle-api.herokuapp.com',
   pencarikode: 'https://pencarikode.xyz', 
   erdwepe: 'https://erdwpe-api.herokuapp.com',
   lolhuman: 'https://api.lolhuman.xyz',
@@ -147,7 +147,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://botstyle-api.herokuapp.com': 'kT7S8VMC',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
